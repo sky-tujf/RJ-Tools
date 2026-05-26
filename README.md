@@ -6,4 +6,6 @@
 - 在线图片压缩工具：支持JPG、PNG、WebP、GIF格式，可调节压缩比例、实时预览效果并快速下载
 - 在线二维码生成器：支持自定义Logo、调整尺寸，实时预览生成结果
 
+在线预览：[GitHub](https://sky-tujf.github.io/RJ-Tools/index.html "如简-免费在线工具")
+
 工具持续更新中...
